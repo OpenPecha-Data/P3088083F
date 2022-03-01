@@ -1,0 +1,102 @@
+id: P3088083F
+initial_creation_type: input
+source_metadata:
+  title: 'Asaṅga/Maitreya: Mahāyānasūtrālaṃkāra'
+  language: bo
+  volumes:
+    1f5b1e0e8cd74049adb94ab217ebc98e:
+      title: CI_Verses 21-40
+      base_file: CI_Verses 21-40.txt
+      work_id: W3353A1AD
+    bd663401915342a8bf641e20db619ef0:
+      title: Chapter II
+      base_file: Chapter II.txt
+      work_id: WFC46BE24
+    4c8adb6c13004f39b0529b5e32b89dea:
+      title: Chapter III
+      base_file: Chapter III.txt
+      work_id: W48DB49BD
+    acd0478ffc04444ab09b003968314618:
+      title: Chapter IV
+      base_file: Chapter IV.txt
+      work_id: W994434EA
+    e1c0ead332ae412db1169fe17b3041d9:
+      title: Chapter IX
+      base_file: Chapter IX.txt
+      work_id: W822EEDA4
+    6df6253a8f2843478c7e94627d81a12a:
+      title: Chapter V
+      base_file: Chapter V.txt
+      work_id: W03FDD443
+    da5e1160ebe748cda9c0f18f7b07485b:
+      title: Chapter VI
+      base_file: Chapter VI.txt
+      work_id: W1D0BEC0D
+    393e8e2ee21245c2858484637020f9e5:
+      title: Chapter VII
+      base_file: Chapter VII.txt
+      work_id: WE27D2CA3
+    d7acb4a4cc7c40e2b8d8501d52986a6e:
+      title: Chapter VIII
+      base_file: Chapter VIII.txt
+      work_id: WFA7D3433
+    506f34f1f5f64b87b6d4beab75b6e72c:
+      title: Chapter X
+      base_file: Chapter X.txt
+      work_id: W7AE4AE08
+    b013149a825b401f999dc692345f7ccd:
+      title: Chapter XI
+      base_file: Chapter XI.txt
+      work_id: W33CACCC5
+    9ec31692f2cc414c940e52d36a97bf53:
+      title: Chapter XII
+      base_file: Chapter XII.txt
+      work_id: WA79008A7
+    de97514128fa412aa04f8d363db038c7:
+      title: Chapter XIII
+      base_file: Chapter XIII.txt
+      work_id: W81BE78E8
+    dbe864d6a391442d89b9a01568897d1f:
+      title: Chapter XIV
+      base_file: Chapter XIV.txt
+      work_id: WBB028A35
+    3015ff76c10544a1b50af963f423754d:
+      title: Chapter XIX
+      base_file: Chapter XIX.txt
+      work_id: W88948203
+    590a4dfd798a4f6d8a5f3393d8caf4e8:
+      title: Chapter XV
+      base_file: Chapter XV.txt
+      work_id: WA9E70420
+    8ec7d5047bfa46609fbb0576ef334854:
+      title: Chapter XVI
+      base_file: Chapter XVI.txt
+      work_id: W01620EA9
+    cec144f80b404a21a230c6e243153992:
+      title: Chapter XVII
+      base_file: Chapter XVII.txt
+      work_id: W159EF54A
+    38f2a6cbfc614973afb9e016420057c4:
+      title: Chapter XVIII
+      base_file: Chapter XVIII.txt
+      work_id: W26696976
+    8f1a7d2214b641078849f7415e18f444:
+      title: Chapter XX-XXI
+      base_file: Chapter XX-XXI.txt
+      work_id: W7C7D65FC
+    fcc91a4987a64fb2892ca47c41c51e2e:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W94E9F288
+    b957c003a1bf451f9666a342e2a07c1e:
+      title: Preface
+      base_file: Preface.txt
+      work_id: WA5839C32
+    1f22c57a6a7143d08b1bdae5e54f6c64:
+      title: Title
+      base_file: Title.txt
+      work_id: WAB44ADD0
+  chapter_to_tile:
+    CI: Chapter I
+created_at: '2022-03-01T23:01:21.284364'
+last_modified_at: '2022-03-01T23:01:21.284373'

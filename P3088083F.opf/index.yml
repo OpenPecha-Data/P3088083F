@@ -1,0 +1,142 @@
+id: cb25383c69024708afab57584e7d6d70
+annotation_type: index
+revision: '00001'
+annotations:
+  016b1cce03384e14b8b939001839a9c3:
+    work_id: W3353A1AD
+    span:
+      vol: CI_Verses 21-40
+      start: 0
+      end: 476801
+  40b2c6606e564b06aea2bac9adeb1d43:
+    work_id: WFC46BE24
+    span:
+      vol: Chapter II
+      start: 0
+      end: 10849
+  b81cabbb7d084be7bf88989b04cb74e3:
+    work_id: W48DB49BD
+    span:
+      vol: Chapter III
+      start: 0
+      end: 7992
+  ccf3a522853247e49cad941cde9e48a1:
+    work_id: W994434EA
+    span:
+      vol: Chapter IV
+      start: 0
+      end: 15521
+  b78b1da0edeb412a9ae350f3488ec537:
+    work_id: W822EEDA4
+    span:
+      vol: Chapter IX
+      start: 0
+      end: 37289
+  d73bed262aa84e3ba681bacb735124ed:
+    work_id: W03FDD443
+    span:
+      vol: Chapter V
+      start: 0
+      end: 7555
+  19f0744ad5a14548aaf51b680fb3fe25:
+    work_id: W1D0BEC0D
+    span:
+      vol: Chapter VI
+      start: 0
+      end: 6980
+  e46792b1ff5d447ea684793bdfc6d0b6:
+    work_id: WE27D2CA3
+    span:
+      vol: Chapter VII
+      start: 0
+      end: 5943
+  46255ca11b1a4dc1b305efe55b308188:
+    work_id: WFA7D3433
+    span:
+      vol: Chapter VIII
+      start: 0
+      end: 14970
+  b975818f2126457492656fe53fa220ee:
+    work_id: W7AE4AE08
+    span:
+      vol: Chapter X
+      start: 0
+      end: 7151
+  89ca7cbe92c9489e8903478a68df5d3c:
+    work_id: W33CACCC5
+    span:
+      vol: Chapter XI
+      start: 0
+      end: 63865
+  f512e1558b7c47e588e7cd38595741dc:
+    work_id: WA79008A7
+    span:
+      vol: Chapter XII
+      start: 0
+      end: 20490
+  baa01d149b364db197d960f28d46fc11:
+    work_id: W81BE78E8
+    span:
+      vol: Chapter XIII
+      start: 0
+      end: 11956
+  d0f2399392c549e6b93f3678926bf6f6:
+    work_id: WBB028A35
+    span:
+      vol: Chapter XIV
+      start: 0
+      end: 19249
+  3809e3f158744296b2d5f32024088d40:
+    work_id: W88948203
+    span:
+      vol: Chapter XIX
+      start: 0
+      end: 38561
+  f4fd6a59c7d447f8a72d59b21909687b:
+    work_id: WA9E70420
+    span:
+      vol: Chapter XV
+      start: 0
+      end: 2400
+  151ca43c0b78470aaa609fdc6e5d9d66:
+    work_id: W01620EA9
+    span:
+      vol: Chapter XVI
+      start: 0
+      end: 56014
+  e4a7303c50da4d28a57ec8f44da876b6:
+    work_id: W159EF54A
+    span:
+      vol: Chapter XVII
+      start: 0
+      end: 36838
+  130061c3f9324e1e8471fd455724c12e:
+    work_id: W26696976
+    span:
+      vol: Chapter XVIII
+      start: 0
+      end: 75570
+  022864349d484e9baa6e71cb9ee18f8a:
+    work_id: W7C7D65FC
+    span:
+      vol: Chapter XX-XXI
+      start: 0
+      end: 36790
+  b79b449a27954d77b2119ce95a80128d:
+    work_id: W94E9F288
+    span:
+      vol: Colophon
+      start: 0
+      end: 344
+  a8c6b5c3c7754b7a83159d39ae222f6d:
+    work_id: WA5839C32
+    span:
+      vol: Preface
+      start: 0
+      end: 68
+  624aa12bac4d4c2ab81345cc1601c3c7:
+    work_id: WAB44ADD0
+    span:
+      vol: Title
+      start: 0
+      end: 105
